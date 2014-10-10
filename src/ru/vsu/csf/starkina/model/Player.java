@@ -1,8 +1,5 @@
 package ru.vsu.csf.starkina.model;
 
-/**
- * Created by Alexander on 08.10.2014.
- */
 public class Player {
 
     private int coins;
