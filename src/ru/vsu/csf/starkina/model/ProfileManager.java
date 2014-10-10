@@ -2,9 +2,6 @@ package ru.vsu.csf.starkina.model;
 
 import java.util.ArrayList;
 
-/**
- *
- */
 public class ProfileManager {
 
     //region Singleton
