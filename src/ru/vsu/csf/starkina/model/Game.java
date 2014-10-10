@@ -2,9 +2,6 @@ package ru.vsu.csf.starkina.model;
 
 import ru.vsu.csf.starkina.model.machine.Machine;
 
-/**
- * Created by Alexander on 08.10.2014.
- */
 public class Game {
 
     //region Singleton
