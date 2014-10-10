@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
-/**
- * Created by Alexander on 08.10.2014.
- */
 public class Machine {
 
     private static Random random;
